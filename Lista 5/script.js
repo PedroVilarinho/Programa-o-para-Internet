@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const btnFill = document.getElementById("btnFill");
     btnFill.addEventListener("click", () => {
         let paragraph = document.getElementById("text1");
-        paragraph.textContent = 'João Pedro Martins';
+        paragraph.textContent = 'Pedro Henrique Oliveira Vilarinho Silva';
     });
 });
 
